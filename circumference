@@ -1,0 +1,5 @@
+print('Enter Radius')
+r=int (input)
+pi=3.14
+Cir=(2*r*pi)
+print('Cir')
